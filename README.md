@@ -16,7 +16,11 @@ Template that can be used to design a system
 9) Basic Design Algorithm
 10) Scaling
 11) Sharding 
-12) Cache
-13) Load balancing
-14) Purging or DB cleanup
+12) Concurrency 
+13) Latency
+14) Cache
+15) Load balancing
+16) Purging or DB cleanup
+17) Monitoring and Alerting
+18) Measure of success and design evolution
 
