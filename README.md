@@ -1,26 +1,36 @@
 # SD-Template
 Template that can be used to design a system
 
-1) Identify Functional requirements
-2) Identify Non functional requirements
-3) Identify extended requirements
-4) Identify if the system is read or write heavy
-5) Calculate Capacity Estimates based on Reads / Writes
-       Calculate Traffic Estimates
-       Calculate Storage Estimates
-       Calculate Bandwidth Estimates
-       Calculate Memory Estimates
-6) API Design
-7) SQL vs No SQL
-8) DB Design
-9) Basic Design Algorithm
-10) Scaling
-11) Sharding 
-12) Concurrency 
-13) Latency
-14) Cache
-15) Load balancing
-16) Purging or DB cleanup
-17) Monitoring and Alerting
-18) Measure of success and design evolution
+
+*  Identify Functional requirements
+*  Identify Non functional & operational requirements    
+      * Availability
+      * Performance
+      * Latency
+      * Legal & Compliance & Privacy
+      * Maintanence * data lifecycle)
+      * Capacity
+      * Security
+      * Geo
+      * Analytics and ML
+*  Identify extended requirements
+*  Identify if the system is read or write heavy
+*  Calculate Capacity Estimates based on Reads / Writes
+      * Calculate Traffic Estimates
+      * Calculate Storage Estimates
+      * Calculate Bandwidth Estimates
+      * Calculate Memory Estimates
+*  API Design
+*  SQL vs No SQL
+*  DB Design
+*  Basic Design Algorithm
+*  Scaling
+*  Sharding 
+*  Concurrency 
+*  Latency
+*  Cache
+*  Load balancing
+* Purging or DB cleanup
+*  Monitoring and Alerting
+*  Measure of success and design evolution
 
