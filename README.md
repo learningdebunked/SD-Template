@@ -28,9 +28,10 @@ Template that can be used to design a system
       * SQL vs No SQL
       * DB Design
 *  Basic Design Algorithm
-*  Scaling
-*  Sharding 
-*  Concurrency 
+*  Design Deep dive
+     *  Uncover bottlenecks as the scale increases
+     *  Sharding 
+     *  Concurrency 
 *  Latency
 *  Cache
 *  Load balancing
