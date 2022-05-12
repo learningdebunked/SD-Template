@@ -20,6 +20,8 @@ Template that can be used to design a system
       * Calculate Storage Estimates
       * Calculate Bandwidth Estimates
       * Calculate Memory Estimates
+      * Find out the number of concurrent users ? Say X% of the DAU
+      * Based on the concurrent users , calculate the QPS
 *  API Design
 *  SQL vs No SQL
 *  DB Design
