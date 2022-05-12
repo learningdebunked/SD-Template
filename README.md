@@ -30,6 +30,8 @@ Template that can be used to design a system
 *  Basic Design Algorithm
 *  Design Deep dive
      *  Uncover bottlenecks as the scale increases
+            * API Servers Scaling - Stateless and Easy to scale based on CPu / IO and Load
+            * Web socket servers scaling  - **Stateful** Easy to scale **however drain connections at LB ** before adding more nodes
      *  Sharding 
      *  Concurrency 
 *  Latency
