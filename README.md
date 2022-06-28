@@ -41,3 +41,21 @@ Template that can be used to design a system
 *  Monitoring and Alerting
 *  Measure of success and design evolution
 
+* Follow the design template below for a design document
+     * Why are we doing this project ?
+     * Stakeholders
+     * Major Design Decisions
+          * MVP Scope
+     * Design
+          * HLD
+          * Flows and Sequences
+          * APIs and Description
+     * Release strategy
+          * Development milestones
+     * Measurements of success
+          * KPI to determine the success of the project
+     * Open Questions
+     * Other userful links
+                          
+    
+
