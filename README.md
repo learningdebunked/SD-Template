@@ -52,6 +52,9 @@ Template that can be used to design a system
           * APIs and Description
      * Release strategy
           * Development milestones
+          * Sand box environments where people can explore and experiment safely
+          * Testing
+          * Deployment ( CI / CD ) 
      * Measurements of success
           * KPI to determine the success of the project
      * Monitoring / Observability
