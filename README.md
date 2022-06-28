@@ -54,6 +54,10 @@ Template that can be used to design a system
           * Development milestones
      * Measurements of success
           * KPI to determine the success of the project
+     * Monitoring / Observability
+          * Requests per second
+          * Cache hit rate
+          * R/W in DB          
      * Open Questions
      * Other userful links
                           
