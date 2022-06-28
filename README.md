@@ -25,8 +25,10 @@ Template that can be used to design a system
 *  Talk about the High Level Design
       * HLD components
       * API Design
-      * SQL ( For faster reads and ready heavy systems)  vs No SQL  ( Faster Writes and Write heavy system )
-      * DB Design
+      * DB models
+          * SQL ( For faster reads and ready heavy systems)  vs No SQL  ( Faster Writes and Write heavy system ) 
+          * Relational vs Document vs Graph
+      * DB Design 
 *  Basic Design Algorithm
 *  Design Deep dive
      *  Uncover bottlenecks as the scale increases
