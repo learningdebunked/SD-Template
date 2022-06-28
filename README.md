@@ -57,7 +57,14 @@ Template that can be used to design a system
      * Monitoring / Observability
           * Requests per second
           * Cache hit rate
-          * R/W in DB          
+          * Error rate 
+          * R/W in DB     
+          * Head of line blocking ( A server can only process a small number of tasks in parallel limited by its CPU Cores often. It only takes a small no 
+            of slow requets to hold up the processing of subsequent requests
+          * Tail latencices ( high latencies that clients see fairly infrequently)  Ex: 1 in 1000 requests are slow . 
+            Reducing response times at high percentiles is difficult because they are easily affected by random events outside our control and benefits are      
+            diminishing
+            
      * Open Questions
      * Other userful links
                           
