@@ -14,6 +14,7 @@ Template that can be used to design a system
       * Geo
       * Analytics and ML
 *  Identify extended requirements
+*  Identify any sandbox environment where people can explore and experiment safely
 *  Calculate Capacity Estimates based on Reads / Writes
       * Calculate Traffic Estimates
       * Calculate Storage Estimates
@@ -37,7 +38,7 @@ Template that can be used to design a system
      *  Sharding 
      *  Concurrency 
 *  Latency
-*  Cache
+*  Cache 
 *  Load balancing
 * Purging or DB cleanup
 *  Monitoring and Alerting
