@@ -2,7 +2,7 @@
 Template that can be used to design a system
 
 
-*  Identify Functional requirements
+*  Identify Functional requirements  
 *  Identify Non functional & operational requirements    
       * Availability
       * Performance
@@ -14,6 +14,21 @@ Template that can be used to design a system
       * Geo
       * Analytics and ML
 *  Identify extended requirements
+*  Identify the architectural landscape pattern:
+   There is no one that fits or solves all and there is no pattern that is the right or wrong , pls choose the right model based on designs
+     * Monolity
+     * N-Tier
+     * Peer to Peer
+     * Serverless
+     * Microservices
+     * SOA
+ 
+*  Idenitfy the architectural structured patterns
+      * Layered
+      * MicroKernel
+      * CQRS
+      * Event sourcing
+      * CQRS + Event sourcing     
 *  Identify any sandbox environment where people can explore and experiment safely
 *  Calculate Capacity Estimates based on Reads / Writes
       * Calculate Traffic Estimates
