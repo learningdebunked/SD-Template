@@ -61,6 +61,12 @@ Template that can be used to design a system
 *  Managing Data storage
       ** Storage requirements
       ** Data categories
+               ** File repository
+               ** Versioning ( older in a different location)
+               ** Multimedia ( These tend to be large)
+               ** Email ( as storage )
+               ** Logs
+                
       ** Storage policies
       ** Data protection
 
