@@ -58,6 +58,11 @@ Template that can be used to design a system
 * Purging or DB cleanup
 *  Monitoring and Alerting
 *  Measure of success and design evolution
+*  Managing Data storage
+      ** Storage requirements
+      ** Data categories
+      ** Storage policies
+      ** Data protection
 
 * Follow the design template below for a design document
      * Why are we doing this project ?
